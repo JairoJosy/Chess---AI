@@ -4,6 +4,10 @@
 
 This is a chess game with AI and multiplayer options. It is built using Python and the Pygame library. The game supports both single-player mode against an AI opponent and multiplayer mode for two human players. The AI opponent uses the minimax algorithm to determine the best move
 
+![Screenshot](Scrn.png)
+![Screenshot](Screenshot.png)
+
+
 ## Installation
 
 To run the game, you'll need to have Python 3 and Pygame installed. If you don't have Pygame, you can install it using pip:
